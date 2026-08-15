@@ -7,14 +7,22 @@ const papers=[
 ['06','INTERNATIONAL RELATIONS','The Shift in Arab American Demands for Legal Representation','A historical and social analysis of changing demands for legal representation across Arab American communities.','Zachary Samuel Rodger','https://drive.google.com/file/d/1fGH9UFGGq1YY7XTmVb-KKnohK_H1-Q1H/view','https://i.pinimg.com/1200x/8e/92/fb/8e92fb0a655c5b057f258df68ee26d5f.jpg']
 ];
 const articles=[
+['SCIENCE','Who Gets to Be a Scientist?','GSEO Research','An exploration of citizen science, curiosity, and how ordinary people can contribute meaningful observations and data to scientific research.','https://medium.com/@technology.gseo'],
+
 ['MENTAL HEALTH','Stress Edition: Short-Term vs Long-Term Stress in Adolescents','Annabelle Tiffany Sophia Hartono','A comparison of acute and chronic stress, their different triggers, effects and practical ways adolescents can manage them.','https://medium.com/@technology.gseo/stress-edition-short-term-vs-long-term-stress-in-adolescents-c0a690426409'],
+
 ['ECONOMICS','The Invisible Hand','Najwa Dida Al Wafiy','An accessible introduction to Adam Smith’s invisible hand, market coordination and the limits of unregulated markets.','https://medium.com/@technology.gseo/the-invisible-hand-aa14f27bbcce'],
+
 ['MATHEMATICS','From Chunks to Precision: Finding Smaller Turbulence Paths','Michael Sutanto','How mathematical modelling and data assimilation can improve predictions of chaotic turbulence in engineering systems.','https://medium.com/@technology.gseo/from-chunks-to-precision-how-we-can-use-math-to-find-smaller-turbulence-paths-e16a502eae4b'],
+
 ['FINANCE','The Mechanics of “Gorengan” Stocks on the IDX','Logan Alvaro Goh','A breakdown of low liquidity, wash trading, pump-and-dump cycles and regulatory warning signs in Indonesian equities.','https://medium.com/@technology.gseo/the-mechanics-of-gorengan-stocks-how-price-manipulation-works-on-the-idx-f758b7bb62a8'],
+
 ['BIOLOGY','How AI Is Transforming Protein Structure Prediction','Aisha Kaka Al Wafiy','How systems such as AlphaFold predict three-dimensional protein structures and accelerate biological and drug-discovery research.','https://medium.com/@technology.gseo/how-artificial-intelligence-is-transforming-protein-structure-prediction-and-protein-interaction-af0e16c92105'],
+
 ['CHEMISTRY','Calcium-Ion Batteries Will Replace Lithium-Ion Batteries','Nicholas Raven Wibowo','A look at new quasi-solid-state electrolytes that could make calcium-ion batteries more stable, scalable and sustainable.','https://medium.com/@technology.gseo/calcium-ion-batteries-will-replace-lithium-ion-batteries-334fbe2f3eef'],
-['PHYSICS','Microscopy with Quantum Mechanics','Michael Sutanto','Exploring quantum electron microscopy, photon entanglement, tunnelling and lower-radiation approaches to biological imaging.','https://medium.com/@technology.gseo/microscopy-with-quantum-mechanics-541fae38d9e6'],
+
 ['ASTRONOMY','“Artificial” Cosmic Dust and the Origins of Life','Angelina Jonly Welirang','How laboratory-created cosmic dust supports the possibility that life-forming chemistry began in space before reaching Earth.','https://medium.com/@technology.gseo/artificial-cosmic-dust-brings-scientists-closer-to-lifes-origins-10a14c236dc1'],
+
 ['ENGINEERING','Fluid Gears: A New System for Rotational Motion','Josh Bennett Kusuma','A contactless gear mechanism that transfers rotational motion through fluid flow, reducing friction, wear and maintenance.','https://medium.com/@technology.gseo/fluid-gears-a-new-mechanical-system-for-rotational-motion-6684f03eec5d']
 ];
 const interviews=[
