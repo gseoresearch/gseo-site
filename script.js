@@ -7,7 +7,7 @@ const papers=[
 ['06','INTERNATIONAL RELATIONS','The Shift in Arab American Demands for Legal Representation','A historical and social analysis of changing demands for legal representation across Arab American communities.','Zachary Samuel Rodger','https://drive.google.com/file/d/1fGH9UFGGq1YY7XTmVb-KKnohK_H1-Q1H/view','https://i.pinimg.com/1200x/8e/92/fb/8e92fb0a655c5b057f258df68ee26d5f.jpg']
 ];
 const articles=[
-['SCIENCE','Who Gets to Be a Scientist?','GSEO Research','An exploration of citizen science, curiosity, and how ordinary people can contribute meaningful observations and data to scientific research.','https://medium.com/@technology.gseo'],
+['SCIENCE','Who Gets to Be a Scientist?','Sachin Jabaraj','An exploration of citizen science, curiosity, and how ordinary people can contribute meaningful observations and data to scientific research.','https://medium.com/@technology.gseo'],
 
 ['MENTAL HEALTH','Stress Edition: Short-Term vs Long-Term Stress in Adolescents','Annabelle Tiffany Sophia Hartono','A comparison of acute and chronic stress, their different triggers, effects and practical ways adolescents can manage them.','https://medium.com/@technology.gseo/stress-edition-short-term-vs-long-term-stress-in-adolescents-c0a690426409'],
 
