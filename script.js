@@ -28,12 +28,9 @@ const interviews=[
 
 ];
 const teams={
-  Leadership:[['Kartik Nayak','President','public/images/team-kartik.png'],['Aisha Kaka','Vice President','public/images/team-aisha.png']],
+ 
   Academic:[['Aisha Kaka Al-Wafiy','Head of Biology','public/images/team-aisha.png'], ['Nicholas Raven Wibowo','Head of Chemistry','public/images/team-raven.png'],['Josh Bennett Kusuma','Head of Physics','public/images/team-josh.png'],['Najwa Dida Al-Wafiy','Head of Economics','public/images/team-dida.png'],['Logan Alvaro Goh','Head of Finance','public/images/team-logan.png'],['Angelina Jonly Welirang','Physics',''],['Michael Sutanto','Physics',''],['Annabelle Tiffany Sophia Hartono','Mental Health','']],
-  Content:[['Profile coming soon','Writer',''],['Profile coming soon','Interviewer',''],['Profile coming soon','Newsletter Member',''],['Profile coming soon','Video Content Member','']],
-  Growth:[['Profile coming soon','Marketing Member',''],['Profile coming soon','Outreach Member',''],['Profile coming soon','Ambassador Member',''],['Profile coming soon','Partnerships Member','']],
-  Technology:[['Profile coming soon','Website Member',''],['Profile coming soon','Data and Analytics Member',''],['Profile coming soon','Technical Support Member','']],
-  Ambassadors:[['Profile coming soon','Student Ambassador',''],['Profile coming soon','Student Ambassador',''],['Profile coming soon','Student Ambassador',''],['Profile coming soon','Student Ambassador','']]
+  
 };
 document.querySelector('#paper-grid').innerHTML=papers.map(p=>`<a class="paper reveal" href="${p[5]}" target="_blank" rel="noreferrer"><img src="${p[6]}" alt="Student research"><span class="paper-meta">${p[0]} / ${p[1]} ↗</span><div><h3>${p[2]}</h3><p class="paper-summary">${p[3]}</p><p class="paper-author">AUTHORS<br>${p[4]}</p></div></a>`).join('');
 document.querySelector('#article-list').innerHTML=articles.map((a,i)=>`<a class="article reveal" href="${a[4]}" target="_blank" rel="noreferrer"><span>${String(i+1).padStart(2,'0')}</span><div><small>${a[0]}</small><h3>${a[1]}</h3><p>${a[3]}</p><span class="author">BY ${a[2]}</span></div><span>↗</span></a>`).join('');
