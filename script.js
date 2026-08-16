@@ -28,6 +28,7 @@ const interviews=[
 
 ];
 const teams={
+  Leadership:[['Kartik Nayak','President','public/images/team-kartik.png'],['Aisha Kaka','Vice President','public/images/team-aisha.png']],
   Academic:[['Aisha Kaka Al-Wafiy','Head of Biology','public/images/team-aisha.png'], ['Nicholas Raven Wibowo','Head of Chemistry','public/images/team-raven.png'],['Josh Bennett Kusuma','Head of Physics','public/images/team-josh.png'],['Najwa Dida Al-Wafiy','Head of Economics','public/images/team-dida.png'],['Logan Alvaro Goh','Head of Finance','public/images/team-logan.png'],['Angelina Jonly Welirang','Physics',''],['Michael Sutanto','Physics',''],['Annabelle Tiffany Sophia Hartono','Mental Health','']],
   Content:[['Profile coming soon','Writer',''],['Profile coming soon','Interviewer',''],['Profile coming soon','Newsletter Member',''],['Profile coming soon','Video Content Member','']],
   Growth:[['Profile coming soon','Marketing Member',''],['Profile coming soon','Outreach Member',''],['Profile coming soon','Ambassador Member',''],['Profile coming soon','Partnerships Member','']],
